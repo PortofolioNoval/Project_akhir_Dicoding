@@ -4,7 +4,7 @@ Repositori ini merupakan hasil **Tugas Akhir kelas Belajar Dasar Pemrograman Web
 
 ## 🌐 Demo Website
 
-> 🔗 [Lihat di GitHub Pages](https://username.github.io/nama-repo)  
+> 🔗 [Lihat Website]([https://username.github.io/nama-repo](https://portofolionoval.github.io/Project_akhir_Dicoding/))  
 
 ---
 
